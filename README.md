@@ -17,7 +17,7 @@
  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
  ![Oracle](https://img.shields.io/badge/OracleDB-%23316192.svg?style=for-the-badge&logo=oracle&logoColor=white) 
- ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+ ![MicrosoftSQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
  ![MongoDB](https://img.shields.io/badge/MONGO%20DB%20-00ed64?style=for-the-badge&logo=mongodb&logoColor=white)
  ![H2](https://img.shields.io/badge/H2%20-00ed64?style=for-the-badge&logo=h2database&logoColor=white)
 
