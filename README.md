@@ -1,9 +1,15 @@
 
+### 👨‍💻 Profile:
+David González Arias
+Terrassa, Barcelona
+05/10/1996
+
+
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dgonzalezarias) 
 
 ### 💻 Fluent Stack:
- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+ ![Java 1.8-25](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
  
  ### 💻 Other Stack:
