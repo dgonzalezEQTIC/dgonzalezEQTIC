@@ -1,8 +1,11 @@
 
 ### 👨‍💻 Profile:
 David González Arias
+
 Terrassa, Barcelona
+
 05/10/1996
+
 
 
 ### 🌐 Socials:
